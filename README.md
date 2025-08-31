@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dante12TB
 - 👀 I’m interested in Arduino and electronics
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate with nobody (because I still sick at programming)
+- 💞️ I’m looking to collaborate with nobody (because I still suck at programming)
 - 📫 How to reach me: YOU CAN'T
 - 😄 Pronouns: Dante Alighieri
 - ⚡ Fun fact: I use a 40 years old scope
